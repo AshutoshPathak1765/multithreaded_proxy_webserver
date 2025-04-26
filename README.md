@@ -9,7 +9,7 @@ A high-performance multi-threaded HTTP proxy server with LRU caching, implemente
 - 📡 **HTTP/1.1 compliant** (GET/POST/HEAD support)
 - 📊 **Error handling** (400/403/404/500 responses)
 
-- Model Link https://app.eraser.io/workspace/BiyovyJNQf5KDVpC59mM
+- Model Link -> https://app.eraser.io/workspace/BiyovyJNQf5KDVpC59mM
 
 ## Quick Start
 ```bash
