@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "proxy_parse.h": "c",
+        "string.h": "c",
+        "semaphore.h": "c"
+    }
+}
